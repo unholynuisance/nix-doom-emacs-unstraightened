@@ -36,6 +36,8 @@
     # https://github.com/melpa/melpa/pull/9520
     helm-icons = "https://github.com/yyoncho/helm-icons";
     helm-posframe = "https://github.com/tumashu/helm-posframe";
+    #
+    treesit-fold = "https://github.com/emacs-tree-sitter/treesit-fold";
   };
 
   # Pins for packages not pinned by Doom and not in nixpkgs or emacs-overlay.
